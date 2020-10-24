@@ -11,6 +11,8 @@ If the user sends the character '0' through the serial monitor then the LED shou
 ##Design
 
 I used https://www.tinkercad.com/ for my simuation. The code can also work on a real life board.
+![alt text](https://github.com/lorrainemutheu/serial_monitor_communication1/blob/master/serial_monitor_as_input/images/simulated_image.png?raw=true)
+
 
 ##Tech Stack
 
